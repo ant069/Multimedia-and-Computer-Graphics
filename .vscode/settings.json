@@ -2,6 +2,7 @@
     "java.project.sourcePaths": [
         "Homework02/Homework02.3",
         "Homework02/Homework02.2",
+        "Homework01/src",
         "HOMEWORK 01/src",
         "Classwork/Classwork01/src",
         "Classwork/Classwork01/scene",
@@ -9,6 +10,6 @@
         "Classwork/Classwork 01/src",
         "Classwork/Classwork 01/scene",
         "Classwork/Classwork 01/clock",
-        "Homework01/src"
+        "Classwork/Classwork01"
     ]
 }

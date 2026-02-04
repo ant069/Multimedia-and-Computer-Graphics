@@ -1,8 +1,6 @@
-package Homework02.Homework02_3;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.*;
 
 public class CoordinateConverter extends JFrame {
     private JTextField xField, yField, rField, thetaField;

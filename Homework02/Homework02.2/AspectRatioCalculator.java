@@ -1,8 +1,6 @@
-package Homework02.Homework02_2;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.*;
 import java.io.*;
 import java.util.Scanner;
 

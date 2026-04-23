@@ -138,13 +138,6 @@ Example comment format:
 ✅ **Intuitive Design**: Simple folder selection and generation
 ✅ **Audio Compliance**: Automatic normalization to YouTube standards
 
-## Self-Evaluation
-
-A 3-minute video explanation of the solution is required, covering:
-- Architecture decisions
-- AI integration approach
-- Challenge mode implementation
-- Code quality and principles adherence
 
 ## Dependencies
 

@@ -171,10 +171,6 @@ The application includes comprehensive error handling for:
 - Invalid media formats
 - Network timeouts
 
-## License
 
-Educational project - All rights reserved.
 
-## Author
 
-[Your Name] - AI Video Creator Implementation

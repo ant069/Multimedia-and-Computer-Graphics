@@ -218,28 +218,3 @@ Before submitting to Blackboard, verify:
 ☐ Audio levels are appropriate
 ☐ No compile warnings in build output
 
-## BLACKBOARD SUBMISSION FORMAT
-## =============================
-
-Prepare submission with:
-
-1. Source code (ZIP or folder)
-2. Compiled JAR file (optional but recommended)
-3. README.md (documentation)
-4. Self-evaluation video (MP4 or similar)
-5. API Key comment (in submission notes):
-   \"Gemini API Key: [ACTUAL_KEY_HERE]
-    Obtained from Google AI Studio Free Tier\"
-
-## CONTACT & SUPPORT
-## ==================
-
-If you encounter issues:
-1. Check VALIDATION_REPORT.txt
-2. Review error messages in log area
-3. Verify config.properties settings
-4. Ensure all dependencies installed
-5. Check README.md for detailed docs
-
-Good luck with your submission! 🚀
-============================================================================
